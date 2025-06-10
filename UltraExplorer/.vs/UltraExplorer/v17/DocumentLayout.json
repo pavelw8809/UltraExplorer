@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\views\\explorercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\views\\explorercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\viewmodels\\explorerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\viewmodels\\explorerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\ultraexplorer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\ultraexplorer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\viewmodels\\fileitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\viewmodels\\fileitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\8d615d551ce44d995ac9f1f6fd873cd38c3192bdd22a260c4a88cac34e24ebbd\\ButtonBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\00471c4a1b02775ec5f512195d62a5d485c3d6c6e973848012e10d0485a8b43f\\ItemsControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\views\\explorercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\views\\explorercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\ultraexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\ultraexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|c:\\users\\pwieczorek\\projects\\ultraexplorer\\ultraexplorer_obs\\ultraexplorer\\models\\fileitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A717EB2-D716-4293-8C4E-4BC530249BED}|UltraExplorer\\UltraExplorer.csproj|solutionrelative:ultraexplorer\\models\\fileitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs [Read Only]",
+              "ViewState": "AgIAAKoEAAAAAAAAAAAiwL0EAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:41:23.211Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExplorerControl.xaml",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\ExplorerControl.xaml",
+              "RelativeDocumentMoniker": "UltraExplorer\\Views\\ExplorerControl.xaml",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\ExplorerControl.xaml",
+              "RelativeToolTip": "UltraExplorer\\Views\\ExplorerControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T11:27:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "UltraExplorer\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:46:41.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UltraExplorer\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "UltraExplorer\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T10:43:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UltraExplorer",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\UltraExplorer.csproj",
+              "RelativeDocumentMoniker": "UltraExplorer\\UltraExplorer.csproj",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\UltraExplorer.csproj",
+              "RelativeToolTip": "UltraExplorer\\UltraExplorer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T13:02:27.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExplorerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\ExplorerViewModel.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\ViewModels\\ExplorerViewModel.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\ExplorerViewModel.cs",
+              "RelativeToolTip": "UltraExplorer\\ViewModels\\ExplorerViewModel.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:52:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonBase.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\8d615d551ce44d995ac9f1f6fd873cd38c3192bdd22a260c4a88cac34e24ebbd\\ButtonBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8d615d551ce44d995ac9f1f6fd873cd38c3192bdd22a260c4a88cac34e24ebbd\\ButtonBase.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\8d615d551ce44d995ac9f1f6fd873cd38c3192bdd22a260c4a88cac34e24ebbd\\ButtonBase.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8d615d551ce44d995ac9f1f6fd873cd38c3192bdd22a260c4a88cac34e24ebbd\\ButtonBase.cs [Read Only]",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAiwFIBAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:53:49.815Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\FileItemViewModel.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\ViewModels\\FileItemViewModel.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\ViewModels\\FileItemViewModel.cs",
+              "RelativeToolTip": "UltraExplorer\\ViewModels\\FileItemViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:52:22.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\App.xaml",
+              "RelativeDocumentMoniker": "UltraExplorer\\App.xaml",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\App.xaml",
+              "RelativeToolTip": "UltraExplorer\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-09T10:37:43.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemsControl.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\00471c4a1b02775ec5f512195d62a5d485c3d6c6e973848012e10d0485a8b43f\\ItemsControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\00471c4a1b02775ec5f512195d62a5d485c3d6c6e973848012e10d0485a8b43f\\ItemsControl.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\AppData\\Local\\Temp\\.vsdbgsrc\\00471c4a1b02775ec5f512195d62a5d485c3d6c6e973848012e10d0485a8b43f\\ItemsControl.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\00471c4a1b02775ec5f512195d62a5d485c3d6c6e973848012e10d0485a8b43f\\ItemsControl.cs [Read Only]",
+              "ViewState": "AgIAAAAKAAAAAAAAAAAiwBwKAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:46:42.2Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExplorerControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\ExplorerControl.xaml.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\Views\\ExplorerControl.xaml.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\ExplorerControl.xaml.cs",
+              "RelativeToolTip": "UltraExplorer\\Views\\ExplorerControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:53:30.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Models\\FileItemModel.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\Models\\FileItemModel.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Models\\FileItemModel.cs",
+              "RelativeToolTip": "UltraExplorer\\Models\\FileItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:09:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UltraExplorer\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UltraExplorer\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:59:35.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UltraExplorer.csproj",
+              "DocumentMoniker": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\UltraExplorer.csproj",
+              "RelativeDocumentMoniker": "UltraExplorer\\UltraExplorer.csproj",
+              "ToolTip": "C:\\Users\\PWieczorek\\Projects\\UltraExplorer\\UltraExplorer_Obs\\UltraExplorer\\UltraExplorer.csproj",
+              "RelativeToolTip": "UltraExplorer\\UltraExplorer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T13:36:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAjwL0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-09T12:42:52.524Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

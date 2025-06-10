@@ -1,0 +1,85 @@
+﻿<Window x:Class="UltraExplorer.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UltraExplorer.Views"
+        xmlns:vm="clr-namespace:UltraExplorer.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1200">
+    <Window.Resources>
+        <Style x:Key="RoundedBtnStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="5"
+                            Padding="{TemplateBinding Padding}"
+                        >
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel>
+        <StackPanel 
+            DockPanel.Dock="Left" 
+            Width="50" 
+            Background="#333"
+            HorizontalAlignment="Left"
+        >
+            <Button 
+                Content="+" 
+                Style="{StaticResource RoundedBtnStyle}"
+                Height="40" 
+                Width="40" 
+                Background="Transparent" 
+                Foreground="#ccc"
+                HorizontalContentAlignment="Center"
+                VerticalContentAlignment="Center"
+                FontSize="25"
+                FontWeight="Black"
+                Padding="0"
+                BorderBrush="#ccc"
+                Margin="0 10 0 5"
+                Command="{Binding AddExplorerCommand}"
+            />
+            <Button 
+                Content="⚙" 
+                Style="{StaticResource RoundedBtnStyle}"
+                Height="40" 
+                Width="40" 
+                Background="Transparent" 
+                Foreground="#ccc"
+                HorizontalContentAlignment="Center"
+                VerticalContentAlignment="Center"
+                FontSize="20"
+                FontWeight="Black"
+                Padding="0"
+                BorderBrush="#ccc"
+                Margin="0 5"
+            />
+        </StackPanel>
+        <ItemsControl ItemsSource="{Binding Explorers}" Background="#333">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid 
+                        Rows="1" 
+                        Columns="{Binding DataContext.ExplorerCount, RelativeSource={RelativeSource AncestorType=ItemsControl}}"
+                        HorizontalAlignment="Stretch"
+                    />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <DataTemplate DataType="{x:Type vm:ExplorerViewModel}">
+                    <local:ExplorerControl/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </DockPanel>
+</Window>
